@@ -1,4 +1,4 @@
-# learning-journal
+# learning-journal..........click here to go to mindset infrmation [mindset](https://mohamamdjaber.github.io/learning-journal/lab01b) 
 ## this is the second header tag(##)...and thats on
 my name is *mohammad* and I love to create a new things with coding 
 markdown is a very usefull tool that can make us write bold text or italic text for example **LTUC** OR *LTUC*
