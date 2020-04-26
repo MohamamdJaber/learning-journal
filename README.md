@@ -15,9 +15,8 @@ EX:
 Super thing we can put a code `<any code you want>`
 we can also add a table just like
 6-12am | 6-12pm
------------- | -------------
 dinner | breakfast
-sleep | sports
+sleep  | sports
 and alot more as you can mentioning individual only by @ sign
 ~~thats it~~
 and thank you
