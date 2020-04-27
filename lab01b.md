@@ -10,4 +10,10 @@ Behaving this way is all well and good when it comes to rock climbing, or judo, 
 1. Challenges....I tell my self that I can handle it
 1. Obstacles....I just make sure to try and try and try
 1. Criticism
-1. Success of others...If they do it I can absoloutly do it
+1. Success of others...
+If they do 
+- it I can absoloutly do it
+[GitHub](http://github.com)
+*very exciting*
+## second
+
