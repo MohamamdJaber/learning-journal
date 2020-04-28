@@ -1,5 +1,5 @@
-#HTML-CSS & the practical side
-###HTML pages are text documents.
+# HTML-CSS & the practical side
+### HTML pages are text documents.
 HTML uses tags (characters that sit inside angled
 brackets) to give the information they surround special
 meaning. 
@@ -15,7 +15,7 @@ displayed in the main browser window.</p>
 </body>
 </html>
 * The new HTML5 structure example:
-><header>
+> <header>
 <h1>Yoko's Kitchen</h1>
 <nav>
 <ul>
@@ -38,10 +38,10 @@ displayed in the main browser window.</p>
 1. Diagrams
 1. Code samples
 1. Text that supports the main
-##CSS
+## CSS
 Why CSS is is important:
-*like civil engineering and agriculltural engineering CSS provides the best shape possible for the web pages to meet the required vision for the target age people as a text color or a general map and shape.
-###Example of CSS code:
+* like civil engineering and agriculltural engineering CSS provides the best shape possible for the web pages to meet the required vision for the target age people as a text color or a general map and shape.
+### Example of CSS code:
 > <!DOCTYPE html>
 <html>
 <head>
