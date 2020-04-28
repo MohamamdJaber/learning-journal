@@ -1,4 +1,4 @@
-# how CSS works:
+# How CSS works:
 * Css is a very usefull tool to change color to create a beatifull pages with a greate texts,colors and to make every thing clear.
 >* for example to change the fonts in css just type this command < h1, h2, h3 {
 font-family: Arial;
@@ -12,3 +12,9 @@ element should look.
 although they may appear within an HTML page.
 3. The HTML and the CSS each one integrate each other.
 4. there are many colors and styles dont forget to try them all.
+### More important thing:
+Declarations are made up of two parts: the properties
+of the element that you want to change, and the values
+of those properties. For example, the font-family
+property sets the choice of font, and the value arial
+specifies Arial as the preferred typeface.
