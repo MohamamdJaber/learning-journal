@@ -24,4 +24,4 @@ and thank you
 #### click here to go to mindset infrmation [mindset](https://mohamamdjaber.github.io/learning-journal/lab01b) 
 #### click here to go to mindset infrmation [text editors](https://mohamamdjaber.github.io/learning-journal/Text-editors)
 #### click here to go to mindset infrmation [basic termina usage](https://mohamamdjaber.github.io/learning-journal/basic%20terminal%20usage)
-
+#### click here to go to mindset infrmation [basic termina usage](https://mohamamdjaber.github.io/learning-journal/read3)
