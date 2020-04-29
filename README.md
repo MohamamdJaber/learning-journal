@@ -25,3 +25,4 @@ and thank you
 #### click here to go to text editors infrmation [text editors](https://Slasherme.github.io/learning-journal/Text-editors)
 #### click here to go to basic termina usage infrmation [basic termina usage](https://Slasherme.github.io/learning-journal/basic%20terminal%20usage)
 #### click here to go to read3 usage infrmation [read3](https://Slasherme.github.io/learning-journal/read3)
+#### click here to go to read3 usage infrmation [HTML-CSS](https://Slasherme.github.io/learning-journal/Html-css)

@@ -4,6 +4,7 @@ HTML uses tags (characters that sit inside angled
 brackets) to give the information they surround special
 meaning. 
 * the main structure of html is:
+******
 ><html>
 <head>
 <title>This is the Title of the Page</title>
@@ -14,7 +15,9 @@ meaning.
 displayed in the main browser window.</p>
 </body>
 </html>
+***********
 * The new HTML5 structure example:
+*************
 > <header>
 <h1>Yoko's Kitchen</h1>
 <nav>
@@ -30,6 +33,7 @@ displayed in the main browser window.</p>
 <footer>
 &copy; 2011 Yoko's Kitchen
 </footer>
+************
 * as we can see its more comfortable to read and know where are we exactly!!
 ### we can also put with the html:
 1. Images
@@ -42,6 +46,7 @@ displayed in the main browser window.</p>
 Why CSS is is important:
 * like civil engineering and agriculltural engineering CSS provides the best shape possible for the web pages to meet the required vision for the target age people as a text color or a general map and shape.
 ### Example of CSS code:
+******
 > <!DOCTYPE html>
 <html>
 <head>
@@ -59,6 +64,7 @@ p.center {
 
 </body>
 </html>
+********
 ### know if we go to the practical side:
 * the amazing things that we can add a video with Html just in 
 
