@@ -45,4 +45,4 @@ git commit -m"any text"
 git push origin master
 .....
 **then just add your user name and password of github.com**
-Thats it and best wishes
+*Thats it and best wishes*
